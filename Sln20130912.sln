@@ -1,0 +1,92 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01练习题", "01练习题\01练习题.csproj", "{E043DA59-50CA-4162-B97B-469C8F65A132}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02索引器", "02索引器\02索引器.csproj", "{6796AD89-744D-405D-B46F-B92067D20E0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03练习", "03练习\03练习.csproj", "{7634F210-8A99-49CE-BEEA-67E236714413}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04演示", "04演示\04演示.csproj", "{BE020EAC-ED7B-4DA9-AED5-F70DEBF882DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05面向对象1", "05面向对象1\05面向对象1.csproj", "{E72275B2-7383-4648-9ECF-D75ED52D1CDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06面向对象计算器", "06面向对象计算器\06面向对象计算器.csproj", "{185CA3EF-3100-4D6D-82AE-675EE6DE4DB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07猜拳游戏", "07猜拳游戏\07猜拳游戏.csproj", "{CCE66B53-BE7F-4729-9AE4-C375B5ED91BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{ABA3E72A-AC8D-4C88-9EA1-32160D063409}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08变量作用域", "08变量作用域\08变量作用域.csproj", "{C0DD73F6-97F1-47FF-91F6-6245EC595CB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09封装", "09封装\09封装.csproj", "{214E143C-3E96-40AA-96A2-0E50BE6F3FF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10继承", "10继承\10继承.csproj", "{5BE8D6B3-1B8A-4F23-8F24-E7F83978F0D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11继承中的构造函数问题", "11继承中的构造函数问题\11继承中的构造函数问题.csproj", "{C97EC542-8B6B-4CCB-9529-3D7062E88823}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12通过base调用父类构造函数", "12通过base调用父类构造函数\12通过base调用父类构造函数.csproj", "{47E6F893-6622-4CBA-94F9-09A2FC81C051}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E043DA59-50CA-4162-B97B-469C8F65A132}.Debug|x86.ActiveCfg = Debug|x86
+		{E043DA59-50CA-4162-B97B-469C8F65A132}.Debug|x86.Build.0 = Debug|x86
+		{E043DA59-50CA-4162-B97B-469C8F65A132}.Release|x86.ActiveCfg = Release|x86
+		{E043DA59-50CA-4162-B97B-469C8F65A132}.Release|x86.Build.0 = Release|x86
+		{6796AD89-744D-405D-B46F-B92067D20E0C}.Debug|x86.ActiveCfg = Debug|x86
+		{6796AD89-744D-405D-B46F-B92067D20E0C}.Debug|x86.Build.0 = Debug|x86
+		{6796AD89-744D-405D-B46F-B92067D20E0C}.Release|x86.ActiveCfg = Release|x86
+		{6796AD89-744D-405D-B46F-B92067D20E0C}.Release|x86.Build.0 = Release|x86
+		{7634F210-8A99-49CE-BEEA-67E236714413}.Debug|x86.ActiveCfg = Debug|x86
+		{7634F210-8A99-49CE-BEEA-67E236714413}.Debug|x86.Build.0 = Debug|x86
+		{7634F210-8A99-49CE-BEEA-67E236714413}.Release|x86.ActiveCfg = Release|x86
+		{7634F210-8A99-49CE-BEEA-67E236714413}.Release|x86.Build.0 = Release|x86
+		{BE020EAC-ED7B-4DA9-AED5-F70DEBF882DD}.Debug|x86.ActiveCfg = Debug|x86
+		{BE020EAC-ED7B-4DA9-AED5-F70DEBF882DD}.Debug|x86.Build.0 = Debug|x86
+		{BE020EAC-ED7B-4DA9-AED5-F70DEBF882DD}.Release|x86.ActiveCfg = Release|x86
+		{BE020EAC-ED7B-4DA9-AED5-F70DEBF882DD}.Release|x86.Build.0 = Release|x86
+		{E72275B2-7383-4648-9ECF-D75ED52D1CDF}.Debug|x86.ActiveCfg = Debug|x86
+		{E72275B2-7383-4648-9ECF-D75ED52D1CDF}.Debug|x86.Build.0 = Debug|x86
+		{E72275B2-7383-4648-9ECF-D75ED52D1CDF}.Release|x86.ActiveCfg = Release|x86
+		{E72275B2-7383-4648-9ECF-D75ED52D1CDF}.Release|x86.Build.0 = Release|x86
+		{185CA3EF-3100-4D6D-82AE-675EE6DE4DB5}.Debug|x86.ActiveCfg = Debug|x86
+		{185CA3EF-3100-4D6D-82AE-675EE6DE4DB5}.Debug|x86.Build.0 = Debug|x86
+		{185CA3EF-3100-4D6D-82AE-675EE6DE4DB5}.Release|x86.ActiveCfg = Release|x86
+		{185CA3EF-3100-4D6D-82AE-675EE6DE4DB5}.Release|x86.Build.0 = Release|x86
+		{CCE66B53-BE7F-4729-9AE4-C375B5ED91BB}.Debug|x86.ActiveCfg = Debug|x86
+		{CCE66B53-BE7F-4729-9AE4-C375B5ED91BB}.Debug|x86.Build.0 = Debug|x86
+		{CCE66B53-BE7F-4729-9AE4-C375B5ED91BB}.Release|x86.ActiveCfg = Release|x86
+		{CCE66B53-BE7F-4729-9AE4-C375B5ED91BB}.Release|x86.Build.0 = Release|x86
+		{ABA3E72A-AC8D-4C88-9EA1-32160D063409}.Debug|x86.ActiveCfg = Debug|x86
+		{ABA3E72A-AC8D-4C88-9EA1-32160D063409}.Debug|x86.Build.0 = Debug|x86
+		{ABA3E72A-AC8D-4C88-9EA1-32160D063409}.Release|x86.ActiveCfg = Release|x86
+		{ABA3E72A-AC8D-4C88-9EA1-32160D063409}.Release|x86.Build.0 = Release|x86
+		{C0DD73F6-97F1-47FF-91F6-6245EC595CB1}.Debug|x86.ActiveCfg = Debug|x86
+		{C0DD73F6-97F1-47FF-91F6-6245EC595CB1}.Debug|x86.Build.0 = Debug|x86
+		{C0DD73F6-97F1-47FF-91F6-6245EC595CB1}.Release|x86.ActiveCfg = Release|x86
+		{C0DD73F6-97F1-47FF-91F6-6245EC595CB1}.Release|x86.Build.0 = Release|x86
+		{214E143C-3E96-40AA-96A2-0E50BE6F3FF8}.Debug|x86.ActiveCfg = Debug|x86
+		{214E143C-3E96-40AA-96A2-0E50BE6F3FF8}.Debug|x86.Build.0 = Debug|x86
+		{214E143C-3E96-40AA-96A2-0E50BE6F3FF8}.Release|x86.ActiveCfg = Release|x86
+		{214E143C-3E96-40AA-96A2-0E50BE6F3FF8}.Release|x86.Build.0 = Release|x86
+		{5BE8D6B3-1B8A-4F23-8F24-E7F83978F0D4}.Debug|x86.ActiveCfg = Debug|x86
+		{5BE8D6B3-1B8A-4F23-8F24-E7F83978F0D4}.Debug|x86.Build.0 = Debug|x86
+		{5BE8D6B3-1B8A-4F23-8F24-E7F83978F0D4}.Release|x86.ActiveCfg = Release|x86
+		{5BE8D6B3-1B8A-4F23-8F24-E7F83978F0D4}.Release|x86.Build.0 = Release|x86
+		{C97EC542-8B6B-4CCB-9529-3D7062E88823}.Debug|x86.ActiveCfg = Debug|x86
+		{C97EC542-8B6B-4CCB-9529-3D7062E88823}.Debug|x86.Build.0 = Debug|x86
+		{C97EC542-8B6B-4CCB-9529-3D7062E88823}.Release|x86.ActiveCfg = Release|x86
+		{C97EC542-8B6B-4CCB-9529-3D7062E88823}.Release|x86.Build.0 = Release|x86
+		{47E6F893-6622-4CBA-94F9-09A2FC81C051}.Debug|x86.ActiveCfg = Debug|x86
+		{47E6F893-6622-4CBA-94F9-09A2FC81C051}.Debug|x86.Build.0 = Debug|x86
+		{47E6F893-6622-4CBA-94F9-09A2FC81C051}.Release|x86.ActiveCfg = Release|x86
+		{47E6F893-6622-4CBA-94F9-09A2FC81C051}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
